@@ -20,3 +20,19 @@ Fonte de dados: http://catalogo.governoaberto.sp.gov.br/dataset/274-exames-labor
 3=SOMASE('coluna de procedimentos';'procedimento';'coluna de quantidade de procedimentos') \
 4=SOMASE('coluna de procedimentos';'procedimento';'coluna de quantidade de procedimentos') \
 5=SOMASE('coluna de meses';'mes';'coluna de quantidade de procedimentos') 
+
+
+## Gráficos
+![image](https://github.com/user-attachments/assets/39440398-28c0-4513-af13-0a0249616062)
+
+
+![image](https://github.com/user-attachments/assets/95b2179c-a9df-469c-914a-d4321e380b9e)
+
+
+![image](https://github.com/user-attachments/assets/ff06498d-ad25-4228-9ddb-ac7617adb7d8)
+
+
+![image](https://github.com/user-attachments/assets/43bae17e-e39e-42f7-829d-db92c510f2b3)
+
+
+![image](https://github.com/user-attachments/assets/42af0935-42cd-47d2-8104-17238a9cdc73)
