@@ -11,7 +11,7 @@ Fonte de dados: http://catalogo.governoaberto.sp.gov.br/dataset/274-exames-labor
 1- Qual laboratório mais se repete na tabela? \
 2- Quantos procedimentos cada laboratório fez no total? \
 3 - Qual a quantidade total de cada procedimento feito no total? \
-4- Quantos de cada procedimento foram feitos no laboratório UNESP? \
+4- Quantos tipos procedimentos foram feitos no laboratório UNESP? \
 5- Independente do ano, quantos procedimentos foram feitos em cada mês?\
 
 ## Formulas Usadas:
