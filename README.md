@@ -1,6 +1,7 @@
 # inform-tica
-repositório para tarefas de info;
-Membros; Kauê Venancio e  Pedro Hernandes;
+repositório para tarefas de info
+### Membros
+Kauê Venancio e  Pedro Hernandes
 
 # TABELA DE EXAMES LABORATORIAIS REALIZADO NO HOSPITAL DAS CLINICAS DE RIBEIRÃO PRETO - SP;
 
